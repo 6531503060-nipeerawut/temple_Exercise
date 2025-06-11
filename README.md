@@ -1,2 +1,2 @@
 # temple_exercise
-HTML, CSS, JavaScript
+Tech Stack: HTML, CSS, JavaScript
