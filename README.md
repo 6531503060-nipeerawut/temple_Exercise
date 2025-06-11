@@ -1,1 +1,2 @@
-# temple_EMWORK
+# temple_exercise
+HTML, CSS, JavaScript
